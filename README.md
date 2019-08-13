@@ -1,6 +1,6 @@
 # dubbolearn
-dubbo的学习项目
-版本要求: dubbo version 2.7.3
+ dubbo的学习项目
+ 版本要求: dubbo version 2.7.3
 
 ## dubbo学习
 - App.java
