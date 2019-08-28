@@ -92,7 +92,7 @@ public class NettyServer{
     }
 
     private InetSocketAddress getBindAddress() {
-         return new InetSocketAddress("10.213.14.51", 20819);
+         return new InetSocketAddress("127.0.0.1", 20819);
     }
 
 

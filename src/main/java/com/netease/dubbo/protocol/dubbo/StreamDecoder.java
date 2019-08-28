@@ -77,7 +77,7 @@ public class StreamDecoder extends ByteToMessageDecoder {
             System.out.println("status值:" + status);
 
 
-            // get status.
+            // get id
             long id = Util.bytes2long(header,4);
 
 
